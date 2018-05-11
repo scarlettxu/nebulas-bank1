@@ -19,7 +19,7 @@ export default {
   name: 'App',
   data(){
     return{
-      showBank: true,
+      showBank: false,
       showButton: false,
     }
   },
