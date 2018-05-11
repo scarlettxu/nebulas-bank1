@@ -4,6 +4,7 @@
   "description": "your considerate financial assistant",
   "author": "scarlettxu<18576656900@163.com>",
   "private": true,
+  "homepage": "https://scarlettxu.github.io/nebulas-bank1/",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
